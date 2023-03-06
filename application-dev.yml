@@ -1,3 +1,7 @@
 spring:
   application:
     name: cloud-gateway-dev2
+server:
+  port: 8888
+config:
+  info: 6666
